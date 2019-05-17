@@ -9,7 +9,8 @@
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View} from 'react-native';
 
-import {styles} from './style/appStyles'
+import {styles} from './style/appStyles';
+//import {index} from './component/indexView';
 
 
 type Props = {};
